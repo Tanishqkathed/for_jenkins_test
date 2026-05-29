@@ -12,7 +12,7 @@ pipeline {
                 echo 'Checking out source code...'
 
                 git branch: 'b1',
-                url: 'https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git'
+                url: 'https://github.com/Tanishqkathed/for_jenkins_test.git'
             }
         }
 
@@ -63,7 +63,7 @@ pipeline {
                 echo 'Checking out source code...'
 
                 git branch: 'b1',
-                url: 'https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git'
+                url: 'https://github.com/Tanishqkathed/for_jenkins_test.git'
             }
         }
 
